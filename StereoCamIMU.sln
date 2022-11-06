@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StereoCamIMU", "StereoCamIMU.vcxproj", "{B9002E8A-C925-489F-B7D5-1CE11470EFCD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serial", "wjwwood-serial\visual_studio\serial\serial.vcxproj", "{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Debug|x64.ActiveCfg = Debug|x64
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Debug|x64.Build.0 = Debug|x64
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Debug|x86.Build.0 = Debug|Win32
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Release|x64.ActiveCfg = Release|x64
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Release|x64.Build.0 = Release|x64
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Release|x86.ActiveCfg = Release|Win32
+		{B9002E8A-C925-489F-B7D5-1CE11470EFCD}.Release|x86.Build.0 = Release|Win32
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Debug|x64.ActiveCfg = Debug|x64
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Debug|x64.Build.0 = Debug|x64
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Debug|x86.Build.0 = Debug|Win32
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Release|x64.ActiveCfg = Release|x64
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Release|x64.Build.0 = Release|x64
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Release|x86.ActiveCfg = Release|Win32
+		{A8517FB2-C74E-43BD-B3C6-B05D3FC11ECD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22445A63-8DF2-48EF-9397-1A631E1E936F}
+	EndGlobalSection
+EndGlobal
