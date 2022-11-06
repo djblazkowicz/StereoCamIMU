@@ -32,3 +32,5 @@
 *.app
 /wjwwood-serial
 /x64
+/.vs/StereoCamIMU
+/bin
